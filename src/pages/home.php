@@ -49,65 +49,11 @@
 				Download CV
 			</button>
 		</section>
-		<section class="flex flex-col items-center justify-center p-4 mt-10 shadow-xl/30 shadow-white rounded-lg">
-			<div class="mb-8">
-				<h2 class="text-2xl text-center font-bold mb-10">Tecnologias</h2>
-				<div class="grid grid-cols-5 text-center gap-4">
-					<div>
-						<i class="fab fa-html5 text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>HTML5</p>
-					</div>
-					<div>
-						<i class="fab fa-css3-alt text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1 "></i>
-						<p>CSS3</p>
-					</div>
-					<div>
-						<i class="fab fa-js text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>JavaScript</p>
-					</div>
-					<div>
-						<i class="fab fa-php text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>PHP</p>
-					</div>
-					<div>
-						<i class="fab fa-react text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>React</p>
-					</div>
-				</div>
-				<div class="grid grid-cols-4 text-center gap-4 mt-4">
-					<div>
-						<i class="fab fa-wordpress text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>WordPress</p>
-					</div>
-					<div>
-						<i class="fa-solid fa-database text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>MySQL</p>
-					</div>
-					<div>
-						<i class="fa-brands fa-bootstrap text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>Bootstrap</p>
-					</div>
-					<div>
-						<i src="../../public/assets/images/tailwind.png" class="text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1"></i>
-						<p>Tailwind</p>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section class="flex flex-col items-center justify-center mt-4 pl-8 pr-8">
+		<section class="flex flex-col items-center justify-center">
 			<h2 class="text-2xl">Projetos</h2>
-			<div class="grid grid-cols-1 gap-4 mt-6">
-				<div class="bg-gray-800 h-130 w-120 pl-6 pr-6 pt-4 pb-4 text-center rounded-lg relative ">
-					<h3 class="font-bold">Desenvolvimento de site para a empresa Web FS</h3>
-					<p class="text-sm">Criação de um site dinâmico e responsivo.</p>
-					<img src="../../public/assets/images/webfs-1.png" alt="Imagem Home Page Cabecalho Web FS" class="w-50 h-50 absolute top-30 left-10 z-0 shadow-xl/30 shadow-white border-1 border-cyan-300 rounded-lg">
-					<img src="../../public/assets/images/webfs-2.png" alt="Imagem Home Page Serviços Web FS" class="w-50 h-50 absolute top-50 left-30 z-1 shadow-xl/30 shadow-white border-1 border-cyan-300 rounded-lg">
-					<img src="../../public/assets/images/webfs-3.png" alt="Imagem Contato Web FS" class="w-50 h-50 absolute top-20 left-60 z-2 shadow-xl/30 shadow-white border-1 border-cyan-300 rounded-lg">
-					<button class="bg-cyan-300 text-1xl text-gray-950 font-bold border-2 border-cyan-300 rounded-full pl-5 pr-5 pt-2 pb-2 mt-95 hover:bg-cyan-400 hover:border-cyan-400 cursor-pointer" onclick="window.open('https://www.webfs.com.br/', '_blank')">
-						Detalhes
-					</button>
-				</div>		
-			</div>
+			<p class="text-lg">
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
+			</p>
 		</section>
 	</main>
 	<?php include '../components/Footer.html'; ?>
