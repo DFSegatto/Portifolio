@@ -3,9 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="../../styles/css/styles.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-	
 	<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 	<title>Portifólio</title>
 </head>
@@ -49,12 +47,9 @@
 			<button class="bg-cyan-300 text-1xl text-gray-950 font-bold border-2 border-cyan-300 rounded-full pl-5 pr-5 pt-2 pb-2 hover:bg-cyan-400 hover:border-cyan-400 cursor-pointer" onclick="window.open('https://drive.google.com/file/d/1-_0000000000000000000000000000000000000000000000000000000000000000/view?usp=sharing', '_blank')">
 				Download CV
 			</button>
-
-			
-
 		</section>
-		<section class="flex flex-col items-center justify-center">
-			<h2 class="text-2xl">Projetos</h2>
+		<section class="flex flex-col items-center justify-center bg-neutral-900 mt-10 pt-10 pb-10 pl-8 pr-8">
+			<h2 class="text-2xl font-bold">Projetos</h2>
 			<p class="text-lg">
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
 			</p>
