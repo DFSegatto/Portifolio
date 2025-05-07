@@ -29,18 +29,18 @@
 					Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
 					Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
 				</p>
-				<div class="flex flex-row items-center justify-center gap-4 mt-4">
-					<i class="whatsapp-icon text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1">
+				<div class="flex flex-row items-center justify-center gap-4 mt-4 ">
+					<i class="whatsapp-icon text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1 hover:rotate-y-180 transition-300 duration-1000 ease-in-out">
 						<a href="https://wa.me/5549988283312" target="_blank">
 							<i class="fab fa-whatsapp"></i>
 						</a>
 					</i>
-					<i class="linkedin-icon text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1">
+					<i class="linkedin-icon text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1 hover:rotate-y-180 transition-300 duration-1000 ease-in-out">
 						<a href="https://www.linkedin.com/in/daniel-fran%C3%A7a-segatto-03969a190/" target="_blank">
 							<i class="fab fa-linkedin"></i>
 						</a>
 					</i>
-					<i class="github-icon text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1">
+					<i class="github-icon text-3xl text-cyan-300 border-2 border-cyan-300 rounded-full pl-2 pr-2 pt-1 pb-1 hover:rotate-y-180 transition-300 duration-1000 ease-in-out">
 						<a href="https://github.com/DFSegatto" target="_blank">
 							<i class="fab fa-github"></i>
 						</a>
@@ -49,6 +49,9 @@
 			<button class="bg-cyan-300 text-1xl text-gray-950 font-bold border-2 border-cyan-300 rounded-full pl-5 pr-5 pt-2 pb-2 hover:bg-cyan-400 hover:border-cyan-400 cursor-pointer" onclick="window.open('https://drive.google.com/file/d/1-_0000000000000000000000000000000000000000000000000000000000000000/view?usp=sharing', '_blank')">
 				Download CV
 			</button>
+
+			
+
 		</section>
 		<section class="flex flex-col items-center justify-center">
 			<h2 class="text-2xl">Projetos</h2>
