@@ -1,1 +1,0 @@
-Portifólio Daniel França Segatto

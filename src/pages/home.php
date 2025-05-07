@@ -8,7 +8,7 @@
 	<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 	<title>Portifólio</title>
 </head>
-<body class="bg-gray-950 text-white">
+<body class="bg-black text-white">
 	<header>
 		<?php include '../components/Nav.html'; ?>
 	</header>
