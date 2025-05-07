@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../../styles/css/styles.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+	
 	<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 	<title>Portifólio</title>
 </head>
